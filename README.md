@@ -43,5 +43,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruthiktr&" alt="kruthiktr" /></p>
 
-
+https://pagespeed-insights.herokuapp.com?url=https://github.com/KRUTHIKTR
 https://pagespeed-insights.herokuapp.com?url=https://github.com/KRUTHIKTR&theme=dark
