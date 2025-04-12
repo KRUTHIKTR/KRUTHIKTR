@@ -45,7 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruthiktr&" alt="kruthiktr" /></p>
 
-
+<h1> 📊 GitHub Stats: </h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR)](https://github.com/KRUTHIKTR/github-readme-stats&show_icons=true&theme=dark)
 
 
