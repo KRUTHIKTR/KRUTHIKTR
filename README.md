@@ -5,8 +5,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red${https://github.com/KRUTHIKTR}.${https://github.com/KRUTHIKTR/KRUTHIKTR})
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kruthiktr" alt="kruthiktr" /></a> </p>
