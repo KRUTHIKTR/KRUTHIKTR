@@ -44,3 +44,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruthiktr&" alt="kruthiktr" /></p>
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
