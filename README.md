@@ -3,8 +3,6 @@
 <h1 align="center">Hello 👋, I'm Kruthik T R</h1>
 <h3 align="center">Decoding Data, Envisioning AI's Future, and Navigating the Cloud Landscape</h3>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p>
 
 - 🔭 Currently working on **Customer Support Ticket System ‍**
@@ -48,3 +46,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark" alt="kruthiktr" /></p>
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
