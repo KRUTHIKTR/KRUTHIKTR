@@ -46,9 +46,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark" alt="kruthiktr" /></p>
 
-<img src="https://raw.githubusercontent.com/KRUTHIKTR/KRUTHIKTR/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
