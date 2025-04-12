@@ -52,3 +52,5 @@
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KRUTHIKTR&hide=B&theme=default)
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KRUTHIKTR&hide=B&theme=default)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KRUTHIKTR&theme=dark)](https://git.io/streak-stats)
