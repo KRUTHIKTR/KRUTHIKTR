@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kruthiktr" alt="kruthiktr" /></a> </p>
-
 - 🔭 Currently working on **Customer Support Ticket System ‍**
 
 - 🌱 I’m currently learning **Machine Learning,GCP,Gen AI, AWS**
