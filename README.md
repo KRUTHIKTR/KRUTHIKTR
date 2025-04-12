@@ -49,4 +49,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR)](https://github.com/KRUTHIKTR/github-readme-stats&show_icons=true&theme=dark)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR&show_icons=true&theme=dark)
