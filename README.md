@@ -42,3 +42,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kruthiktr&show_icons=true&locale=en" alt="kruthiktr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kruthiktr&" alt="kruthiktr" /></p>
+
+
+https://pagespeed-insights.herokuapp.com?url=https://github.com/KRUTHIKTR&theme=dark
