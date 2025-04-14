@@ -64,8 +64,8 @@
 
 <h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
 <br>
-<div width="200px" align="center">
-  <a align="left" href="https://github.com/KRUTHIKTR/Crop-Recommendation-System-Using-Machine-Learning" title="Crop Recommendation System Using Machine Learning"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=KRUTHIKTR&repo=Crop-Recommendation-System-Using-Machine-Learning&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="200" align="center">
+  <a align="left" href="https://github.com/KRUTHIKTR/Crop-Recommendation-System-Using-Machine-Learning" title="Crop Recommendation System Using Machine Learning"><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=KRUTHIKTR&repo=Crop-Recommendation-System-Using-Machine-Learning&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
