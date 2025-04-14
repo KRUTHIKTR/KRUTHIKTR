@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p>
 
-<img height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+<img height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center"  />
 
 
 - 🔭 Currently working on **Customer Support Ticket System ‍**
