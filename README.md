@@ -52,6 +52,7 @@
 
 
 
+![image](https://github.com/user-attachments/assets/312cca96-b57c-4430-99f7-346e6a56e8cc)
 
 ## Connect with me  
 <a href="https://github.com/KRUTHIKTR" target="_blank">
