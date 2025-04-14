@@ -34,6 +34,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KRUTHIKTR&theme=dark)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark" alt="kruthiktr" /></p>
 <br><br><br><br><br><br><br><br>
+
 <!-- Quotes:START -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 <!-- Quotes:END -->
