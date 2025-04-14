@@ -30,9 +30,9 @@
 
 <h1> 📊 GitHub Stats: </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR&show_icons=true&theme=dark&direction=left)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KRUTHIKTR&theme=dark)](https://git.io/streak-stats&direction=left)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark&direction=left" alt="kruthiktr" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR&show_icons=true&theme=dark&direction=right)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KRUTHIKTR&theme=dark)](https://git.io/streak-stats&direction=rightt)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark&direction=right" alt="kruthiktr" /></p>
 <br><br><br><br><br><br><br><br>
 
 <!-- Quotes:START -->
