@@ -4,6 +4,10 @@
 <h3 align="center">Decoding Data, Envisioning AI's Future, and Navigating the Cloud Landscape</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+</div>
+
 
 - 🔭 Currently working on **Customer Support Ticket System ‍**
 
@@ -54,14 +58,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 
-
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
-</div>
-
-###
-
 <div align="left">
   <a href="kruthiktrgowda24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
@@ -73,5 +69,3 @@
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo"  />
   </a>
 </div>
-
-###
