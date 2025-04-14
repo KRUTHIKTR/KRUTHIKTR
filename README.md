@@ -2,13 +2,9 @@
 
 <h1 align="center">Hello 👋, I'm Kruthik T R</h1>
 <div align="center">
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&multiline=true&width=450&lines=Decoding+Data%2C+Envisioning+AI's+Future+;and+Navigating+the+Cloud+Landscape)](https://git.io/typing-svg)
 </div>
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p>
 
