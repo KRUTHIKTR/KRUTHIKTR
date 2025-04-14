@@ -1,9 +1,7 @@
 ![image](https://github.com/user-attachments/assets/e8979a47-3fad-4377-95f7-52248bae7ac4)
 
 <h1 align="center">Hello 👋, I'm Kruthik T R</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-<h3 align="center">Decoding Data, Envisioning AI's Future, and Navigating the Cloud Landscape</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Decoding+Data%2C+Envisioning+AI's+Future%2C+and+Navigating+the+Cloud+Landscape;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p>
 
