@@ -51,10 +51,8 @@
 <!-- Quotes:END -->
 
 
+<h1>🌐🔗Connect with me:</h1>
 
-![image](https://github.com/user-attachments/assets/312cca96-b57c-4430-99f7-346e6a56e8cc&width=10)
-
-## Connect with me  
 <a href="https://github.com/KRUTHIKTR" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
