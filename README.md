@@ -38,7 +38,7 @@
 <br><br><br><br><br><br>
 
 <!-- Quotes:START -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=vertical&quote="xsdas+sdda+dsa")](https://github.com/piyushsuthar/github-readme-quotes)
 <!-- Quotes:END -->
 
 <h1>🌐🔗Connect with me:</h1>
