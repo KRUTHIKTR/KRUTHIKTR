@@ -4,7 +4,7 @@
 <h3 align="center">Decoding Data, Envisioning AI's Future, and Navigating the Cloud Landscape</h3>
 
 <div align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p></div>
-<div align="right">
+<div align="right" width="100%">
   <img height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 </div>
 
