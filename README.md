@@ -55,21 +55,3 @@
 <a href="https://medium.com/@kruthiktrgowda" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-
-
-
-
-
-
-
-<h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
-<br>
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/KRUTHIKTR/Crop-Recommendation-System-Using-Machine-Learning" title="Crop Recommendation System Using Machine Learning" width="100%"><img align="left" height="130%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KRUTHIKTR&repo=Crop-Recommendation-System-Using-Machine-Learning&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<h4 align="center">
-  <a href="https://github.com/KRUTHIKTR?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-
