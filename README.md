@@ -32,6 +32,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KRUTHIKTR&theme=dark)](https://git.io/streak-stats)
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark" alt="kruthiktr" /></p>
 
 <!-- Quotes:START -->
