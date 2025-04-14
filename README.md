@@ -1,10 +1,9 @@
 ![image](https://github.com/user-attachments/assets/e8979a47-3fad-4377-95f7-52248bae7ac4)
 
 <h1 align="center">Hello 👋, I'm Kruthik T R</h1>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&center=true&multiline=true&width=450&lines=Decoding+Data%2C+Envisioning+AI's+Future+;and+Navigating+the+Cloud+Landscape)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&multiline=true&width=450&lines=Decoding+Data%2C+Envisioning+AI's+Future+;and+Navigating+the+Cloud+Landscape)](https://git.io/typing-svg)
 </div>
 
 
