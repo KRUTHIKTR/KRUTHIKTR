@@ -31,8 +31,8 @@
 <h1> 📊 GitHub Stats: </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR&show_icons=true&theme=dark&direction=left)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KRUTHIKTR&theme=dark)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark" alt="kruthiktr" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KRUTHIKTR&theme=dark)](https://git.io/streak-stats&direction=left)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark&direction=left" alt="kruthiktr" /></p>
 <br><br><br><br><br><br><br><br>
 
 <!-- Quotes:START -->
