@@ -13,12 +13,12 @@
 
 <p align="center" ><img height="200" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></p>
 
-- 👀 Passionate about Gen AI, Cloud, Data Analysis, AWS, and GCP
-- 🌱 Currently exploring Gen AI and Cloud technologies
+- 👀 Passionate about **Gen AI**, **Cloud**, **Data Analysis**, **AWS** and **GCP**
+- 🌱 Currently exploring **Gen AI** and **Cloud** technologies
 - 💡 Driven by curiosity, always up for learning, building, and collaborating on meaningful projects
-- 🎯 Interests: Data Science, AI, and Open Source
-- 📌 Currently working on: Customer Support Ticket System
-- 🤝 Open to collaborating on: Data Science, Kubernetes, and Cloud-based projects
+- 🎯 Interests: **Data Science**, **AI** and **Open Source**
+- 📌 Currently working on: **Customer Support Ticket System**
+- 🤝 Open to collaborating on: **Data Science**, **Kubernetes** and **Cloud-based projects**
 
 
 <h1 align="left">💻 Tech Stack:</h1>
