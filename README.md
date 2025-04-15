@@ -13,18 +13,13 @@
 
 <p align="center" ><img height="200" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></p>
 
+- 👀 Passionate about Gen AI, Cloud, Data Analysis, AWS, and GCP
+- 🌱 Currently exploring Gen AI and Cloud technologies
+- 💡 Driven by curiosity, always up for learning, building, and collaborating on meaningful projects
+- 🎯 Interests: Data Science, AI, and Open Source
+- 📌 Currently working on: Customer Support Ticket System
+- 🤝 Open to collaborating on: Data Science, Kubernetes, and Cloud-based projects
 
-- 🔭 Currently working on **Customer Support Ticket System ‍**
-
-- 🌱 I’m currently learning **Machine Learning,GCP,Gen AI, AWS**
-
-- 👨‍💻 Connect with me at [https://linktr.ee/kruthik_tr](https://linktr.ee/kruthik_tr)
-
-- 📝 I regularly write articles on [https://medium.com/@kruthiktrgowda](https://medium.com/@kruthiktrgowda)
-
-- 💬 Ask me about **Gen AI, GCP, Machine Learning, SQL**
-
-- 📫 Reach me at **kruthiktrgowda24@gmail.com**
 
 <h1 align="left">💻 Tech Stack:</h1>
 
