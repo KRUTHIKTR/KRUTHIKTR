@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kruthiktr&label=Profile%20views&color=0e75b6&style=flat" alt="kruthiktr" /> </p>
 
-<p align="center" ><img height="200" width="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></p>
+<p align="center" ><img height="300" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></p>
 
 - 👀 Passionate about **Gen AI**, **Cloud**, **Data Analysis**, **AWS** and **GCP**
 - 🌱 Currently exploring **Gen AI** and **Cloud** technologies
