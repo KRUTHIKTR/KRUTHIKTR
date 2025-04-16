@@ -31,7 +31,7 @@
 <br><br><br><br><br><br>
 
 <!-- Quotes:START -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=vertical&quote="Be+curious.+Read+widely.+Try+new+things.+What+people+call+intelligence+just+boils+down+to+curiosity"&author=Aaron+Swartz)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=vertical&quote="Be+curious.+Read+widely.+Try+new+things.+What+people+call+intelligence+just+boils+down+to+curiosity"&author=Aaron+Swartz)]
 <!-- Quotes:END -->
 
 <h1>🌐🔗Connect with me:</h1>
