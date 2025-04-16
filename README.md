@@ -57,8 +57,3 @@
 <a href="https://linktr.ee/kruthik_tr" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo"  />
 </a>
-
-
-<h1> 
-  ![Screenshot 2025-04-15 202500](https://github.com/user-attachments/assets/758d2b5a-d894-4e44-a6ab-e8e1c3e46fbf)
-</h1>
