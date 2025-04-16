@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/e8979a47-3fad-4377-95f7-52248bae7ac4)
 
+
+happy birthday b iissya
 <h1 align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=400&color=0AF7F6&center=true&multiline=true&repeat=false&width=450&lines=Hello+%F0%9F%91%8B%2C+I'm+Kruthik+T+R)](https://git.io/typing-svg)
