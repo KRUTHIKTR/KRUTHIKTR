@@ -16,7 +16,7 @@
 - 🎯 Interests: **Data Science**, **AI** and **Open Source**
 - 📌 Currently working on: **Customer Support Ticket System**
 - 🤝 Open to collaborating on: **Data Science**, **Kubernetes** and **Cloud-based projects**
-
+  
 
 <h1 align="left">💻 Tech Stack:</h1>
 
