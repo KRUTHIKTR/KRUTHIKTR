@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B21,50:00C9A7,100:005F73&height=180&section=header&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <div align="center">
-"""
+
+```text
 ██╗  ██╗██████╗ ██╗   ██╗████████╗██╗  ██╗██╗██╗  ██╗
 ██║ ██╔╝██╔══██╗██║   ██║╚══██╔══╝██║  ██║██║██║ ██╔╝
 █████╔╝ ██████╔╝██║   ██║   ██║   ███████║██║█████╔╝
@@ -15,9 +16,13 @@
    ██║       ██╔══██╗
    ██║       ██║  ██║
    ╚═╝       ╚═╝  ╚═╝
+```
 
-"""
-</div>                                                                                                                                                                               
+### `Building AI Agents that automate real-world workflows.`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer;Python+Developer;Agentic+AI+Builder;RPA+%7C+AI+Agents+%7C+Automation;Open+to+Collaborate)](https://git.io/typing-svg)
+
+</div>                                                                                                                                                          
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=400&color=0AF7F6&center=true&multiline=true&repeat=false&width=450&lines=Hello+%F0%9F%91%8B%2C+I'm+Kruthik+T+R)
 </h1>
 <div align="center" outline=none>
