@@ -1,5 +1,8 @@
 ![image](https://github.com/user-attachments/assets/e8979a47-3fad-4377-95f7-52248bae7ac4)
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B21,50:00C9A7,100:005F73&height=180&section=header&animation=fadeIn&fontColor=ffffff" width="100%" />
+
 <h1 align="center">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=400&color=0AF7F6&center=true&multiline=true&repeat=false&width=450&lines=Hello+%F0%9F%91%8B%2C+I'm+Kruthik+T+R)
