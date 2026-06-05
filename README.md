@@ -1,30 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021B21,50:00C9A7,100:005F73&height=180&section=header&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 <div align="center">
-"""                                                                                                                                                                                            
-KKKKKKKKK    KKKKKKKRRRRRRRRRRRRRRRRR   UUUUUUUU     UUUUUUUUTTTTTTTTTTTTTTTTTTTTTTTHHHHHHHHH     HHHHHHHHHIIIIIIIIIIKKKKKKKKK    KKKKKKK     TTTTTTTTTTTTTTTTTTTTTTT     RRRRRRRRRRRRRRRRR   
-K:::::::K    K:::::KR::::::::::::::::R  U::::::U     U::::::UT:::::::::::::::::::::TH:::::::H     H:::::::HI::::::::IK:::::::K    K:::::K     T:::::::::::::::::::::T     R::::::::::::::::R  
-K:::::::K    K:::::KR::::::RRRRRR:::::R U::::::U     U::::::UT:::::::::::::::::::::TH:::::::H     H:::::::HI::::::::IK:::::::K    K:::::K     T:::::::::::::::::::::T     R::::::RRRRRR:::::R 
-K:::::::K   K::::::KRR:::::R     R:::::RUU:::::U     U:::::UUT:::::TT:::::::TT:::::THH::::::H     H::::::HHII::::::IIK:::::::K   K::::::K     T:::::TT:::::::TT:::::T     RR:::::R     R:::::R
-KK::::::K  K:::::KKK  R::::R     R:::::R U:::::U     U:::::U TTTTTT  T:::::T  TTTTTT  H:::::H     H:::::H    I::::I  KK::::::K  K:::::KKK     TTTTTT  T:::::T  TTTTTT       R::::R     R:::::R
-  K:::::K K:::::K     R::::R     R:::::R U:::::D     D:::::U         T:::::T          H:::::H     H:::::H    I::::I    K:::::K K:::::K                T:::::T               R::::R     R:::::R
-  K::::::K:::::K      R::::RRRRRR:::::R  U:::::D     D:::::U         T:::::T          H::::::HHHHH::::::H    I::::I    K::::::K:::::K                 T:::::T               R::::RRRRRR:::::R 
-  K:::::::::::K       R:::::::::::::RR   U:::::D     D:::::U         T:::::T          H:::::::::::::::::H    I::::I    K:::::::::::K                  T:::::T               R:::::::::::::RR  
-  K:::::::::::K       R::::RRRRRR:::::R  U:::::D     D:::::U         T:::::T          H:::::::::::::::::H    I::::I    K:::::::::::K                  T:::::T               R::::RRRRRR:::::R 
-  K::::::K:::::K      R::::R     R:::::R U:::::D     D:::::U         T:::::T          H::::::HHHHH::::::H    I::::I    K::::::K:::::K                 T:::::T               R::::R     R:::::R
-  K:::::K K:::::K     R::::R     R:::::R U:::::D     D:::::U         T:::::T          H:::::H     H:::::H    I::::I    K:::::K K:::::K                T:::::T               R::::R     R:::::R
-KK::::::K  K:::::KKK  R::::R     R:::::R U::::::U   U::::::U         T:::::T          H:::::H     H:::::H    I::::I  KK::::::K  K:::::KKK             T:::::T               R::::R     R:::::R
-K:::::::K   K::::::KRR:::::R     R:::::R U:::::::UUU:::::::U       TT:::::::TT      HH::::::H     H::::::HHII::::::IIK:::::::K   K::::::K           TT:::::::TT           RR:::::R     R:::::R
-K:::::::K    K:::::KR::::::R     R:::::R  UU:::::::::::::UU        T:::::::::T      H:::::::H     H:::::::HI::::::::IK:::::::K    K:::::K           T:::::::::T           R::::::R     R:::::R
-K:::::::K    K:::::KR::::::R     R:::::R    UU:::::::::UU          T:::::::::T      H:::::::H     H:::::::HI::::::::IK:::::::K    K:::::K           T:::::::::T           R::::::R     R:::::R
-KKKKKKKKK    KKKKKKKRRRRRRRR     RRRRRRR      UUUUUUUUU            TTTTTTTTTTT      HHHHHHHHH     HHHHHHHHHIIIIIIIIIIKKKKKKKKK    KKKKKKK           TTTTTTTTTTT           RRRRRRRR     RRRRRRR
-                                                                                                                                                                                """              
-                                                                                                                                                                               </div>               
-                                                                                                                                                                                              
-                                                                                                                                                                                              
-                                                                                                                                                                                              
-                                                                                                                                                                                              
-                                                                                                                                                                                              
+"""
+██╗  ██╗██████╗ ██╗   ██╗████████╗██╗  ██╗██╗██╗  ██╗
+██║ ██╔╝██╔══██╗██║   ██║╚══██╔══╝██║  ██║██║██║ ██╔╝
+█████╔╝ ██████╔╝██║   ██║   ██║   ███████║██║█████╔╝
+██╔═██╗ ██╔══██╗██║   ██║   ██║   ██╔══██║██║██╔═██╗
+██║  ██╗██║  ██║╚██████╔╝   ██║   ██║  ██║██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+
+████████╗    ██████╗
+╚══██╔══╝    ██╔══██╗
+   ██║       ██████╔╝
+   ██║       ██╔══██╗
+   ██║       ██║  ██║
+   ╚═╝       ╚═╝  ╚═╝
+
+"""
+</div>                                                                                                                                                                               
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=400&color=0AF7F6&center=true&multiline=true&repeat=false&width=450&lines=Hello+%F0%9F%91%8B%2C+I'm+Kruthik+T+R)
 </h1>
 <div align="center" outline=none>
